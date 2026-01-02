@@ -1,3 +1,4 @@
+
 ---
 description: Review planning artifacts for architecturally significant decisions and create ADRs.
 ---

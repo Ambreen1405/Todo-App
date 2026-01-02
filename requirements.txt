@@ -1,0 +1,5 @@
+# Requirements for Todo-CLI Agent
+# Python 3.13+ required
+
+# Testing
+pytest>=7.0.0
